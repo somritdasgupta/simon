@@ -1,5 +1,7 @@
 # Simon Game
 
+<a href="https://app.daily.dev/somrit"><img src="https://api.daily.dev/devcards/da71dd31134c42e488c5f8afd3548e65.png?r=99i" width="200" alt="Somrit Dasgupta's Dev Card"/></a>
+
 This is a simple implementation of the classic Simon game built using HTML5, CSS3 and jQuery. The game consists of four colored buttons: red, blue, green and yellow. The game randomly generates a sequence of colors and the player must repeat the sequence by clicking the buttons in the correct order. The game starts with a sequence of one color and each time the player successfully completes the sequence, the game adds one more color to the sequence.
 
 ## Demo
